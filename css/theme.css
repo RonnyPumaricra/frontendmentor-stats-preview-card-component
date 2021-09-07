@@ -1,0 +1,15 @@
+html {
+  --body-bg: hsl(233, 47%, 7%);
+  --card-bg: hsl(244, 38%, 16%);
+  --main-color: hsl(277, 64%, 61%);
+
+
+  --main-txt-color: hsl(0, 0%, 100%);
+  --txt-color-1: hsla(0, 0%, 100%, 0.75);
+  --txt-color-2: hsla(0, 0%, 100%, 0.6);
+
+  font-size: 15px;
+
+  --sans-serif: "Inter", sans-serif;
+  --serif: "Lexend Deca", serif;
+}
